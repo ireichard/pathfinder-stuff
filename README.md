@@ -17,8 +17,19 @@ Go to Character Sheet > Attributes and Abilities > Abilities +Add > Name it what
 
 I personally recommend viewing raw so copy/paste becomes easier.
 
-Taking 10: [Ability, all skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10.ability)
-, [Ability, custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-custom.ability)
-, [Token macro, all skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-token.macro)
-, [Token macro, custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-custom-token.macro)
+#### Abilities:
 
+Taking 10: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10.ability)
+, [Custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-custom.ability)
+
+Taking 20: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20.ability)
+, [Custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-custom.ability)
+
+
+#### Macros:
+
+Taking 10: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-token.macro)
+, [Custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-custom-token.macro)
+
+Taking 20: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-token.macro)
+, [Custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-custom-token.macro)
