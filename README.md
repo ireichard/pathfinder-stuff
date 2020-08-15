@@ -12,4 +12,13 @@ Abilities:
 Go to Character Sheet > Attributes and Abilities > Abilities +Add > Name it what you want, paste code.
 
 ***Important***
+
 **If you copy code with html entity replacements, you may need to copy/paste it again if you want to edit it.**
+
+I personally recommend viewing raw so copy/paste becomes easier.
+
+Taking 10: [Ability, all skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10.ability)
+, [Ability, custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-custom.ability)
+, [Token macro, all skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-token.macro)
+, [Token macro, custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-custom-token.macro)
+
