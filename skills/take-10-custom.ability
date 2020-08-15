@@ -1,0 +1,1 @@
+&{template:pc} {{showchar=[[1]]}} {{charname=@{character_name}}} {{type=skill}} {{descflag=0}} {{shownotes=[[1]]}} {{name=?{Skill Name|Custom Skill}}} {{roll=[[([TAKE 10]10+[BONUS]?{Net Bonus|0})]]}} {{notes=Taking 10}}
