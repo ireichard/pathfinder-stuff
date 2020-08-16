@@ -17,7 +17,14 @@ Go to Character Sheet > Attributes and Abilities > Abilities +Add > Name it what
 
 I personally recommend viewing raw so copy/paste becomes easier.
 
-#### Abilities:
+## Feats
+
+##### Alert: [Macro](https://github.com/ireichard/pathfinder-stuff/blob/master/feats/alert-take-10-init.macro)
+
+
+## Skills
+
+##### Abilities:
 
 Taking 10: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10.ability)
 , [Custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-custom.ability)
@@ -26,7 +33,7 @@ Taking 20: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/sk
 , [Custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-custom.ability)
 
 
-#### Macros:
+##### Macros:
 
 Taking 10: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-token.macro)
 , [Custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-custom-token.macro)
