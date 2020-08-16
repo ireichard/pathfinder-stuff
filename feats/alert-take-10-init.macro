@@ -1,0 +1,1 @@
+&{template:pc} {{showchar=[[1]]}} {{charname=@{selected|character_name}}} {{type=initiative}} {{descflag=0}} {{shownotes=[[1]]}} {{name=Initiative}} {{roll=[[1d0+1d1+([+[TAKE 10]10+[BONUS]@{selected|initiative}) &{tracker}]]}} {{notes=Taking 10 on Initiative (Alert Feat)}}
