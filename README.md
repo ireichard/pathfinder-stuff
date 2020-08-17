@@ -24,19 +24,14 @@ I personally recommend viewing raw so copy/paste becomes easier.
 
 ## Skills
 
-##### Abilities:
+##### Taking 10 Abilities: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10.ability)
+, [Custom](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-custom.ability)
 
-Taking 10: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10.ability)
-, [Custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-custom.ability)
+##### Taking 20 Abilities: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20.ability)
+, [Custom](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-custom.ability)
 
-Taking 20: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20.ability)
-, [Custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-custom.ability)
+##### Taking 10 Macros: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-token.macro)
+, [Custom](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-custom-token.macro)
 
-
-##### Macros:
-
-Taking 10: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-token.macro)
-, [Custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-custom-token.macro)
-
-Taking 20: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-token.macro)
-, [Custom skill](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-custom-token.macro)
+##### Taking 20 Macros: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-token.macro)
+, [Custom](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-custom-token.macro)
