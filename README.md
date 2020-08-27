@@ -31,3 +31,8 @@ I personally recommend viewing raw so copy/paste becomes easier.
 ##### Taking 10 Macros: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-token.macro) , [Custom](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-10-custom-token.macro)
 
 ##### Taking 20 Macros: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-token.macro) , [Custom](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-custom-token.macro)
+
+
+## Other
+
+##### [Condition Reference Macro](https://github.com/ireichard/pathfinder-stuff/blob/master/misc/condition-output.macro)
