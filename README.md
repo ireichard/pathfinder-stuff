@@ -33,6 +33,10 @@ I personally recommend viewing raw so copy/paste becomes easier.
 ##### Taking 20 Macros: [Skills](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-token.macro) , [Custom](https://github.com/ireichard/pathfinder-stuff/blob/master/skills/take-20-custom-token.macro)
 
 
+## Classes
+
+##### Ranger: [Favored Terrain](https://github.com/ireichard/pathfinder-stuff/blob/master/classes/ranger/favored-terrain.ability)
+
 ## Other
 
 ##### [Condition Reference Macro](https://github.com/ireichard/pathfinder-stuff/blob/master/misc/condition-output.macro)
