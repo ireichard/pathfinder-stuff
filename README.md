@@ -35,7 +35,7 @@ I personally recommend viewing raw so copy/paste becomes easier.
 
 ## Classes
 
-##### Ranger: [Favored Terrain](https://github.com/ireichard/pathfinder-stuff/blob/master/classes/ranger/favored-terrain.ability)
+##### Ranger: [Favored Enemy](https://github.com/ireichard/pathfinder-stuff/blob/master/classes/ranger/favored-enemy.ability), [Favored Terrain](https://github.com/ireichard/pathfinder-stuff/blob/master/classes/ranger/favored-terrain.ability)
 
 ## Other
 
